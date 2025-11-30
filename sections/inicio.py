@@ -35,7 +35,7 @@ def show():
         st.markdown(
             """
             <div class="header-container">
-                <div class="project-badge">✦ Proyecto Pirata</div>
+                <div class="project-badge">✦ Proyecto </div>
                 <h1 class="main-title">Modelos <span class="title-accent">SIR</span></h1>
                 <p class="header-desc">
                     Una aplicación interactiva de la <b class="highlight">Facultad de Ciencias Matemáticas</b> 
